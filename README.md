@@ -9,7 +9,7 @@ git clone https://github.com/Alexvs159/niri-debian.git
 
 - Install the packages with this command as normal user:
 ```
-sudo apt install niri-debian/*.deb
+sudo apt install ./niri-debian/*.deb
 ```
 
 - Enjoy
